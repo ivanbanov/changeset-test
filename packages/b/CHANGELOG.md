@@ -1,5 +1,12 @@
 # b
 
+## 1.1.1
+
+### Patch Changes
+
+- Updated dependencies [1bf3dfa]
+  - a@1.2.0
+
 ## 1.1.0
 
 ### Minor Changes

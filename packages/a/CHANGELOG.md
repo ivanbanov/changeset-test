@@ -1,5 +1,11 @@
 # a
 
+## 1.2.0
+
+### Minor Changes
+
+- 1bf3dfa: Minor A
+
 ## 1.1.0
 
 ### Minor Changes
