@@ -1,1 +1,1 @@
-export default 'a - minor - minor'
+export default 'a - major'
