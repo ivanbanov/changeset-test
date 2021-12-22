@@ -8,5 +8,9 @@
   },
   "dependencies": {
     "@changesets/cli": "^2.19.0"
+  },
+  "scripts": {
+    "changeset": "changeset add && git add .changeset && git commit -m 'Add changeset'",
+    "release": "changeset version && changeset tag && git add packages/ && git commit -m 'Publish' && git push --follow-tags"
   }
 }
