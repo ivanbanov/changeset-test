@@ -1,6 +1,11 @@
 {
   "name": "changeset-test",
   "version": "1.0.0",
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  },
   "dependencies": {
     "@changesets/cli": "^2.19.0"
   }
