@@ -1,4 +1,7 @@
 {
   "name": "changeset-test",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "dependencies": {
+    "@changesets/cli": "^2.19.0"
+  }
 }
