@@ -1,0 +1,5 @@
+---
+"c": major
+---
+
+Major C
