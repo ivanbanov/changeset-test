@@ -1,8 +1,8 @@
 {
   "name": "d",
-  "version": "2.0.1-next.0",
+  "version": "2.0.1",
   "dependencies": {
-    "a": "2.0.1-next.0",
+    "a": "2.0.1",
     "c": "2.0.0"
   }
 }
