@@ -1,5 +1,0 @@
----
-"a": minor
----
-
-Minor A
