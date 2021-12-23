@@ -1,1 +1,1 @@
-export default 'b - minor'
+export default 'b - snapshot test'
