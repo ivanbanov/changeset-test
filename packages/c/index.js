@@ -1,1 +1,1 @@
-export default 'c - major'
+export default 'c - next minor'
