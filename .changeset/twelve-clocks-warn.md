@@ -1,5 +1,0 @@
----
-"c": minor
----
-
-Minor C
