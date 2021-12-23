@@ -1,5 +1,11 @@
 # b
 
+## 0.0.0-20211223112819
+
+### Minor Changes
+
+- 8272a3f: Minor B
+
 ## 1.1.3
 
 ### Patch Changes
