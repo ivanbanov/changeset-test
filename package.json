@@ -12,6 +12,7 @@
   "scripts": {
     "changeset": "changeset add && git add .changeset && git commit -m 'Add changeset'",
     "release": "changeset version && changeset tag && git add packages/ && git commit -m 'Publish' && git push --follow-tags",
-    "next": "changeset pre enter next && npm run release && changeset pre exit"
+    "next": "changeset pre enter next && npm run release && changeset pre exit",
+    "snapshot": "changeset version --snapshot && changeset tag && git add packages/ .changeset && git commit -m 'Snapshot' && git push --follow-tags"
   }
 }
