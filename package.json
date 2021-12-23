@@ -11,8 +11,8 @@
   },
   "scripts": {
     "changeset": "changeset add && git add .changeset && git commit -m 'Add changeset'",
-    "release": "changeset version && changeset tag && git add packages/ && git commit -m 'Publish' && git push --follow-tags",
+    "release": "changeset version && changeset tag && git add packages && git commit -m 'Publish' && git push --follow-tags",
     "next": "changeset pre enter next && npm run release && changeset pre exit",
-    "snapshot": "npm run changeset && changeset version --snapshot && changeset tag && git add packages/ .changeset && git commit -m 'Snapshot' && git push --follow-tags"
+    "snapshot": "changeset version --snapshot && git add .changeset packages && git commit -m '--snapshot' && changeset tag && git checkout HEAD~1 -- .changeset packages && git commit -m '--snapshot cleanup'"
   }
 }
