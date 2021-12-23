@@ -1,5 +1,11 @@
 # c
 
+## 2.1.0-next.1
+
+### Minor Changes
+
+- 203f8e6: Minor C 2
+
 ## 2.1.0-next.0
 
 ### Minor Changes
