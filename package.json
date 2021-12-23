@@ -10,9 +10,9 @@
     "@changesets/cli": "^2.19.0"
   },
   "scripts": {
-    "changeset": "changeset add && git add .changeset && git commit -m 'Add changeset'",
-    "release": "changeset version && changeset tag && git add packages && git commit -m 'Publish' && git push --follow-tags",
+    "changeset": "changeset add && git add .changeset && git commit -m '📝 Changeset'",
+    "release": "changeset version && git add packages .changeset && git commit -m '🚚 Release packages' && changeset tag && git push origin HEAD --follow-tags",
     "next": "changeset pre enter next && npm run release && changeset pre exit",
-    "snapshot": "changeset version --snapshot && git add .changeset packages && git commit -m '--snapshot' && changeset tag && git checkout HEAD~1 -- .changeset packages && git commit -m '--snapshot cleanup'"
+    "snapshot": "changeset version --snapshot && git add .changeset packages && git commit -m '📸 Packages snapshot' && changeset tag && git checkout HEAD~1 -- .changeset packages && git commit -m '--snapshot cleanup'"
   }
 }
