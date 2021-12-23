@@ -1,5 +1,0 @@
----
-"b": minor
----
-
-Minor B
