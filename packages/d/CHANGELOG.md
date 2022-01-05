@@ -1,5 +1,15 @@
 # d
 
+## 2.0.3
+
+### Patch Changes
+
+- Updated dependencies [2a40baa]
+- Updated dependencies [3f74369]
+- Updated dependencies [1d6f917]
+  - a@2.1.0
+  - c@3.0.0
+
 ## 2.0.3-next.2
 
 ### Patch Changes

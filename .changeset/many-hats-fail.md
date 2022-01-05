@@ -1,5 +1,0 @@
----
-"c": major
----
-
-major C

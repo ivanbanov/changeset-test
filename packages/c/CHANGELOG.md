@@ -1,5 +1,11 @@
 # c
 
+## 3.0.0
+
+### Major Changes
+
+- 1d6f917: major C
+
 ## 3.0.0-next.0
 
 ### Major Changes

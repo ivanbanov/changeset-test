@@ -1,5 +1,13 @@
 # b
 
+## 1.2.1
+
+### Patch Changes
+
+- Updated dependencies [2a40baa]
+- Updated dependencies [3f74369]
+  - a@2.1.0
+
 ## 1.2.1-next.1
 
 ### Patch Changes

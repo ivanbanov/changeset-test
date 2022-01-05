@@ -1,5 +1,15 @@
 # a
 
+## 2.1.0
+
+### Minor Changes
+
+- 3f74369: minor
+
+### Patch Changes
+
+- 2a40baa: patch
+
 ## 2.1.0-next.1
 
 ### Patch Changes
