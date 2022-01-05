@@ -1,1 +1,1 @@
-export default 'a - next'
+export default 'a - next xxx'
