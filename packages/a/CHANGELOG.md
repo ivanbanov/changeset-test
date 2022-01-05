@@ -1,5 +1,11 @@
 # a
 
+## 2.1.0-next.1
+
+### Patch Changes
+
+- patch
+
 ## 2.1.0-next.0
 
 ### Minor Changes
