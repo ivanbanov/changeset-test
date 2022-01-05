@@ -9,6 +9,7 @@
   },
   "changesets": [
     "calm-meals-burn",
-    "empty-turkeys-notice"
+    "empty-turkeys-notice",
+    "many-hats-fail"
   ]
 }

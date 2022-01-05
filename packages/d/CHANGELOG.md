@@ -1,5 +1,12 @@
 # d
 
+## 2.0.3-next.2
+
+### Patch Changes
+
+- Updated dependencies
+  - c@3.0.0-next.0
+
 ## 2.0.3-next.1
 
 ### Patch Changes
