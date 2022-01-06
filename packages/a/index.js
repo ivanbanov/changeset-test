@@ -1,1 +1,1 @@
-export default 'test1'
+export default 'test2'
