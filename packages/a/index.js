@@ -1,1 +1,1 @@
-export default 'a - foo bar qux xyz'
+export default 'test1'
