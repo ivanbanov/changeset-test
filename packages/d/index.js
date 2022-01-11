@@ -1,1 +1,1 @@
-export default 'd - major'
+export default 'd - new changelog'

@@ -1,1 +1,1 @@
-export default 'b - snapshot test'
+export default 'b new changelog'

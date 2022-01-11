@@ -1,1 +1,1 @@
-export default 'test2'
+export default 'test2 new changelog'
