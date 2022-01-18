@@ -1,1 +1,1 @@
-export default 'd - new changelog'
+export default 'd'
