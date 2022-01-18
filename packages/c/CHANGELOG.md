@@ -1,5 +1,11 @@
 # c
 
+## 3.0.1
+
+### Patch Changes
+
+- a462fd6: test
+
 ## 3.0.0
 
 ### Major Changes
