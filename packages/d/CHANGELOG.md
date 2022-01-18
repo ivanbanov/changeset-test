@@ -1,5 +1,12 @@
 # d
 
+## 2.0.5
+
+### Patch Changes
+
+- Updated dependencies
+  - c@3.1.0
+
 ## 2.0.4
 
 ### Patch Changes
